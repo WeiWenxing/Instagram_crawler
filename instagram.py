@@ -13,8 +13,8 @@ uri = 'https://www.instagram.com/graphql/query/?query_hash=a5164aed103f24b03e7b7
 
 
 headers = {
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
-    'cookie': '这里加上自己的cookie'
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+    'cookie': 'ig_did=5F603C57-92AD-41C0-BD7D-C7B6E756ED89; mid=XjkO0wALAAHS7zJFA5g8BqM37-lW; csrftoken=AqYyN2ZRZPfXhLfFH3dP6HWocgAKD9rI; ds_user_id=11331667280; sessionid=11331667280%3AXKIlKMcZthr5c4%3A1; rur=FTW; urlgen="{\"43.224.64.78\": 135391}:1jOFB9:GqCvSxSAQaCAv9l-LXEopnV0iRg"'
 }
 
 
